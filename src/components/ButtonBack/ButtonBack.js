@@ -1,4 +1,4 @@
-import { Button, LinkBack } from './ButtonBack,styled';
+import { Button, LinkBack } from './ButtonBack.styled';
 
 const ButtonBack = ({ to }) => {
   return (
